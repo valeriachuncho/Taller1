@@ -1,0 +1,9 @@
+image:
+  file: .gitpod.Dockerfile
+tasks:
+  - name: Initializing
+    before: chmod +rwx initScript.sh
+    command: ./initScript.sh \
+             && sdk update
+             && sdk install java 11.0.20.1-tem \
+             && sdk install scala 3.3.1
