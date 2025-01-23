@@ -11,7 +11,7 @@ Esta guía está diseñada para ayudarte a aprender a usar **Doobie**, una libre
 Asegurar que el archivo `build.sbt` contenga las dependencias necesarias para usar Doobie y conectar con MySQL.
 
 ```scala
-scalaVersion := "3.3.4"
+scalaVersion := "2.13.12"
 
 libraryDependencies ++= Seq(
     "org.tpolecat" %% "doobie-core" % "1.0.0-RC5",      // Dependencias de doobie
