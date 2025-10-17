@@ -16,7 +16,7 @@ Bienvenido a este entorno de programación configurado para los laboratorios de 
    - Ve a tu fork: `https://github.com/TU-USUARIO/Talleres`
    - Haz clic en `Code` → `Codespaces` → `Create codespace on main`
   
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main)
+
 
 Las siguientes instrucciones únicamente tienen sentido una vez que se encuentre dentro del entorno de desarrollo de Codespaces.
 
