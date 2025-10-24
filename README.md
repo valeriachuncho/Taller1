@@ -6,11 +6,17 @@ Bienvenido a este entorno de programación configurado para los laboratorios de 
 
 ## 🚀 Abrir en GitHub Codespaces
 
-Para arrancar el entorno debe hacer clic en el siguiente botón:
+### Para estudiantes (Primera vez)
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ProgramacionFuncionalReactiva/Talleres)
+1. **Haz Fork de este repositorio**
+   - Haz clic en el botón "Fork" arriba a la derecha
+   - Esto creará tu propia copia del repositorio
 
-Al hacer clic le pedirá que seleccione uno de sus repositorios en GitHub para crear el entorno.
+2. **Abre Codespace desde TU repositorio**
+   - Ve a tu fork: `https://github.com/TU-USUARIO/Talleres`
+   - Haz clic en `Code` → `Codespaces` → `Create codespace on main`
+  
+
 
 Las siguientes instrucciones únicamente tienen sentido una vez que se encuentre dentro del entorno de desarrollo de Codespaces.
 
